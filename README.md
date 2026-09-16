@@ -120,6 +120,7 @@
 - [可视化的ICO发展历史 ](https://elementus.io/token-sales-history)
 - [区块链相关微信指数 ](http://index.wxadd.com/rank/bitcoin)
 - [区块链相关百度指数](http://index.baidu.com/?tpl=trend&amp;type=0&amp;area=0&amp;time=13&amp;word=%C7%F8%BF%E9%C1%B4%2C%B1%C8%CC%D8%B1%D2%2Cico%2C%D2%D4%CC%AB%B7%BB)
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 <br/>
 
